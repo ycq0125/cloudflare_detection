@@ -1,1 +1,1 @@
-## 记录cloudflare的检测点
+## 记录cloudflare的检测点,建立在firefox上
